@@ -14,7 +14,7 @@ Python(FrontEnd) and mysql(BackEnd)
 #### 🠊 Steps to run
 1.  Create a Twitter developer acoount for secret keys.
 2.  make sure you're ready with mysql table (create a table and add attributes by taking their reference from code).
-3.  now you're good to go.
+3.  now you're got to go.
 
 ### 🠊 Please raise issue if needed
 
