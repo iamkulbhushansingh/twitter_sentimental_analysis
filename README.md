@@ -4,12 +4,12 @@
 Python(FrontEnd) and mysql(BackEnd)
 
 #### 🠊 Dependencies
-1. Tweepy
-2. regex
-3. tkinter
-4. matplotlib
-5. mysql
-6. textblob
+1. Tweepy (used for retriving tweets from Twitter API)
+2. regex (used to clean stop words and unnecessary words like "in","a","the", hashtags etc.)
+3. tkinter (used for UI)
+4. matplotlib (for creating dataframe)
+5. mysql (used in backend for storing users data)
+6. textblob (used for finding polarity of texts filtered)
 
 #### 🠊 Steps to run
 1.  Create a Twitter developer acoount for secret keys.
